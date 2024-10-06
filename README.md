@@ -31,7 +31,9 @@ Furthermore, understanding these trends will enable us to better equip candidate
 Visual representations are crucial for enhancing our understanding of the data. 
 By using charts and graphs, we can simplify complex information, making trends and patterns easier to identify. 
 This approach not only aids in effective communication of our findings but also promotes data-driven decision-making, allowing stakeholders to grasp key insights quickly.
-![image](https://github.com/user-attachments/assets/1469cf3b-f378-4322-9621-d84e53592459)
+
+![image](https://github.com/user-attachments/assets/71be42ca-728b-4fcc-ac76-d4ba4b05692d)
+
 
 Conclusion:
 
