@@ -1,10 +1,12 @@
 Most Demanded Skills
 
 About the Dataset:
+
 LinkedIn is a widely used professional networking platform that hosts millions of job postings. This dataset contains 1.3 million job listings scraped from LinkedIn in the year 2024.
 This dataset can be used for various research tasks such as job market analysis, skills mapping, job recommendation systems, and more.
 
 Objective:
+
 To analyze the most sought-after skills in 2024, based on data from LinkedIn, one of the leading job-hunting platforms. 
 This analysis aims to provide insights into the skills that are in high demand within the IT industry, helping individuals identify areas for improvement and enhance their chances of securing positions in top IT companies.
 
